@@ -17,6 +17,17 @@ Nous évaluerons l'intérêt de [l'Energy STAR Score](https://www.energystar.gov
 - Réaliser une courte analyse exploratoire.
 - Tester différents modèles de prédiction afin de répondre au mieux à la problématique.
 
+- Les étapes d'analyse:
+
+![etapes](https://github.com/DaiTensa/feature_engineering_eda/blob/main/figures/Etapes_analyses.png?raw=true)
+
+
+- Les étapes de modélisation : 
+![etape1](https://github.com/DaiTensa/feature_engineering_eda/blob/main/figures/Modelisation_etape1(3).png?raw=true)
+![etape2](https://github.com/DaiTensa/feature_engineering_eda/blob/main/figures/Modelisation_etape2(3).png?raw=true)
+![etapee3](https://github.com/DaiTensa/feature_engineering_eda/blob/main/figures/Modelisation_etape2(3).png?raw=true)
+
+
 ## Compétences
 
 - Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer.
