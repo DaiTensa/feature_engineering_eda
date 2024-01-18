@@ -25,7 +25,7 @@ Nous évaluerons l'intérêt de [l'Energy STAR Score](https://www.energystar.gov
 - Les étapes de modélisation : 
 ![etape1](https://github.com/DaiTensa/feature_engineering_eda/blob/main/figures/Modelisation_etape1(3).png?raw=true)
 ![etape2](https://github.com/DaiTensa/feature_engineering_eda/blob/main/figures/Modelisation_etape2(3).png?raw=true)
-![etapee3](https://github.com/DaiTensa/feature_engineering_eda/blob/main/figures/Modelisation_etape2(3).png?raw=true)
+![etapee3](https://github.com/DaiTensa/feature_engineering_eda/blob/main/figures/Modelisation_etape3(3).png?raw=true)
 
 
 ## Compétences
